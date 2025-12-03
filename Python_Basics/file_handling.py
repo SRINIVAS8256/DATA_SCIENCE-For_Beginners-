@@ -1,5 +1,3 @@
-
-# ⿡ Opening Files
 # Syntax: open(filename, mode, buffering=-1, encoding=None, errors=None, newline=None, closefd=True, opener=None)
 file = open("example.txt", "r", encoding="utf-8")
 
@@ -131,15 +129,3 @@ with open("example.txt", "r+") as f:
     print(mm.readline())
     mm.close()
 
-# ⿡⿧ Tips & Best Practices
-# ✅ Always use 'with' to auto-close files
-# ✅ Use pathlib for modern file path handling
-# ✅ Handle exceptions (FileNotFoundError, IOError)
-# ✅ Use binary mode for non-text files
-# ✅ Use iterators or read in chunks for large files
-# ✅ json/csv modules for structured data
-# ✅ Temporary files for scratch space
-# ✅ gzip/bz2/lzma for compressed files
-
-
-#haary's cheatsheet
