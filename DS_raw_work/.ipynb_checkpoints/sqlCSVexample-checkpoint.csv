@@ -1,0 +1,59 @@
+Code,Name,Continent,Region,SurfaceArea,IndepYear,Population,LifeExpectancy,GNP,GNPOld,LocalName,GovernmentForm,HeadOfState,Capital,Code2
+AGO,Angola,Africa,Central Africa,1246700.0,1975.0,12878000,38.3,6648.0,7984.0,Angola,Republic,José Eduardo dos Santos,56.0,AO
+BDI,Burundi,Africa,Eastern Africa,27834.0,1962.0,6695000,46.2,903.0,982.0,Burundi/Uburundi,Republic,Pierre Buyoya,552.0,BI
+BEN,Benin,Africa,Western Africa,112622.0,1960.0,6097000,50.2,2357.0,2141.0,Bénin,Republic,Mathieu Kérékou,187.0,BJ
+BFA,Burkina Faso,Africa,Western Africa,274000.0,1960.0,11937000,46.7,2425.0,2201.0,Burkina Faso,Republic,Blaise Compaoré,549.0,BF
+BWA,Botswana,Africa,Southern Africa,581730.0,1966.0,1622000,39.3,4834.0,4935.0,Botswana,Republic,Festus G. Mogae,204.0,BW
+CAF,Central African Republic,Africa,Central Africa,622984.0,1960.0,3615000,44.0,1054.0,993.0,Centrafrique/Bê-Afrîka,Republic,Ange-Félix Patassé,1889.0,CF
+CIV,Côte d’Ivoire,Africa,Western Africa,322463.0,1960.0,14786000,45.2,11345.0,10285.0,Côte d’Ivoire,Republic,Laurent Gbagbo,2814.0,CI
+CMR,Cameroon,Africa,Central Africa,475442.0,1960.0,15085000,54.8,9174.0,8596.0,Cameroun/Cameroon,Republic,Paul Biya,1804.0,CM
+COD,"Congo, The Democratic Republic of the",Africa,Central Africa,2344858.0,1960.0,51654000,48.8,6964.0,2474.0,République Démocratique du Congo,Republic,Joseph Kabila,2298.0,CD
+COG,Congo,Africa,Central Africa,342000.0,1960.0,2943000,47.4,2108.0,2287.0,Congo,Republic,Denis Sassou-Nguesso,2296.0,CG
+COM,Comoros,Africa,Eastern Africa,1862.0,1975.0,578000,60.0,4401.0,4361.0,Komori/Comores,Republic,Azali Assoumani,2295.0,KM
+CPV,Cape Verde,Africa,Western Africa,4033.0,1975.0,428000,68.9,435.0,420.0,Cabo Verde,Republic,António Mascarenhas Monteiro,1859.0,CV
+DJI,Djibouti,Africa,Eastern Africa,23200.0,1977.0,638000,50.8,382.0,373.0,Djibouti/Jibuti,Republic,Ismail Omar Guelleh,585.0,DJ
+DZA,Algeria,Africa,Northern Africa,2381741.0,1962.0,31471000,69.7,49982.0,46966.0,Al-Jaza’ir/Algérie,Republic,Abdelaziz Bouteflika,35.0,DZ
+EGY,Egypt,Africa,Northern Africa,1001449.0,1922.0,68470000,63.3,82710.0,75617.0,Misr,Republic,Hosni Mubarak,608.0,EG
+ERI,Eritrea,Africa,Eastern Africa,117600.0,1993.0,3850000,55.8,650.0,755.0,Ertra,Republic,Isayas Afewerki [Isaias Afwerki],652.0,ER
+ESH,Western Sahara,Africa,Northern Africa,266000.0,,293000,49.8,60.0,,As-Sahrawiya,Occupied by Marocco,Mohammed Abdel Aziz,2453.0,EH
+ETH,Ethiopia,Africa,Eastern Africa,1104300.0,-1000.0,62565000,45.2,6353.0,6180.0,YeItyop´iya,Republic,Negasso Gidada,756.0,ET
+GAB,Gabon,Africa,Central Africa,267668.0,1960.0,1226000,50.1,5493.0,5279.0,Le Gabon,Republic,Omar Bongo,902.0,GA
+GHA,Ghana,Africa,Western Africa,238533.0,1957.0,20212000,57.4,7137.0,6884.0,Ghana,Republic,John Kufuor,910.0,GH
+GIN,Guinea,Africa,Western Africa,245857.0,1958.0,7430000,45.6,2352.0,2383.0,Guinée,Republic,Lansana Conté,926.0,GN
+GMB,Gambia,Africa,Western Africa,11295.0,1965.0,1305000,53.2,320.0,325.0,The Gambia,Republic,Yahya Jammeh,904.0,GM
+GNB,Guinea-Bissau,Africa,Western Africa,36125.0,1974.0,1213000,49.0,293.0,272.0,Guiné-Bissau,Republic,Kumba Ialá,927.0,GW
+GNQ,Equatorial Guinea,Africa,Central Africa,28051.0,1968.0,453000,53.6,283.0,542.0,Guinea Ecuatorial,Republic,Teodoro Obiang Nguema Mbasogo,2972.0,GQ
+IOT,British Indian Ocean Territory,Africa,Eastern Africa,78.0,,0,,0.0,,British Indian Ocean Territory,Dependent Territory of the UK,Elisabeth II,,IO
+KEN,Kenya,Africa,Eastern Africa,580367.0,1963.0,30080000,48.0,9217.0,10241.0,Kenya,Republic,Daniel arap Moi,1881.0,KE
+LBR,Liberia,Africa,Western Africa,111369.0,1847.0,3154000,51.0,2012.0,,Liberia,Republic,Charles Taylor,2440.0,LR
+LBY,Libyan Arab Jamahiriya,Africa,Northern Africa,1759540.0,1951.0,5605000,75.5,44806.0,40562.0,Libiya,Socialistic State,Muammar al-Qadhafi,2441.0,LY
+LSO,Lesotho,Africa,Southern Africa,30355.0,1966.0,2153000,50.8,1061.0,1161.0,Lesotho,Constitutional Monarchy,Letsie III,2437.0,LS
+MAR,Morocco,Africa,Northern Africa,446550.0,1956.0,28351000,69.1,36124.0,33514.0,Al-Maghrib,Constitutional Monarchy,Mohammed VI,2486.0,MA
+MDG,Madagascar,Africa,Eastern Africa,587041.0,1960.0,15942000,55.0,3750.0,3545.0,Madagasikara/Madagascar,Federal Republic,Didier Ratsiraka,2455.0,MG
+MLI,Mali,Africa,Western Africa,1240192.0,1960.0,11234000,46.7,2642.0,2453.0,Mali,Republic,Alpha Oumar Konaré,2482.0,ML
+MOZ,Mozambique,Africa,Eastern Africa,801590.0,1975.0,19680000,37.5,2891.0,2711.0,Moçambique,Republic,Joaquím A. Chissano,2698.0,MZ
+MRT,Mauritania,Africa,Western Africa,1025520.0,1960.0,2670000,50.8,998.0,1081.0,Muritaniya/Mauritanie,Republic,Maaouiya Ould Sid´Ahmad Taya,2509.0,MR
+MUS,Mauritius,Africa,Eastern Africa,2040.0,1968.0,1158000,71.0,4251.0,4186.0,Mauritius,Republic,Cassam Uteem,2511.0,MU
+MWI,Malawi,Africa,Eastern Africa,118484.0,1964.0,10925000,37.6,1687.0,2527.0,Malawi,Republic,Bakili Muluzi,2462.0,MW
+MYT,Mayotte,Africa,Eastern Africa,373.0,,149000,59.5,0.0,,Mayotte,Territorial Collectivity of France,Jacques Chirac,2514.0,YT
+NAM,Namibia,Africa,Southern Africa,824292.0,1990.0,1726000,42.5,3101.0,3384.0,Namibia,Republic,Sam Nujoma,2726.0,NA
+NER,Niger,Africa,Western Africa,1267000.0,1960.0,10730000,41.3,1706.0,1580.0,Niger,Republic,Mamadou Tandja,2738.0,NE
+NGA,Nigeria,Africa,Western Africa,923768.0,1960.0,111506000,51.6,65707.0,58623.0,Nigeria,Federal Republic,Olusegun Obasanjo,2754.0,NG
+REU,Réunion,Africa,Eastern Africa,2510.0,,699000,72.7,8287.0,7988.0,Réunion,Overseas Department of France,Jacques Chirac,3017.0,RE
+RWA,Rwanda,Africa,Eastern Africa,26338.0,1962.0,7733000,39.3,2036.0,1863.0,Rwanda/Urwanda,Republic,Paul Kagame,3047.0,RW
+SDN,Sudan,Africa,Northern Africa,2505813.0,1956.0,29490000,56.6,10162.0,,As-Sudan,Islamic Republic,Omar Hassan Ahmad al-Bashir,3225.0,SD
+SEN,Senegal,Africa,Western Africa,196722.0,1960.0,9481000,62.2,4787.0,4542.0,Sénégal/Sounougal,Republic,Abdoulaye Wade,3198.0,SN
+SHN,Saint Helena,Africa,Western Africa,314.0,,6000,76.8,0.0,,Saint Helena,Dependent Territory of the UK,Elisabeth II,3063.0,SH
+SLE,Sierra Leone,Africa,Western Africa,71740.0,1961.0,4854000,45.3,746.0,858.0,Sierra Leone,Republic,Ahmed Tejan Kabbah,3207.0,SL
+SOM,Somalia,Africa,Eastern Africa,637657.0,1960.0,10097000,46.2,935.0,,Soomaaliya,Republic,Abdiqassim Salad Hassan,3214.0,SO
+STP,Sao Tome and Principe,Africa,Central Africa,964.0,1975.0,147000,65.3,6.0,,São Tomé e Príncipe,Republic,Miguel Trovoada,3172.0,ST
+SWZ,Swaziland,Africa,Southern Africa,17364.0,1968.0,1008000,40.4,1206.0,1312.0,kaNgwane,Monarchy,Mswati III,3244.0,SZ
+SYC,Seychelles,Africa,Eastern Africa,455.0,1976.0,77000,70.4,536.0,539.0,Sesel/Seychelles,Republic,France-Albert René,3206.0,SC
+TCD,Chad,Africa,Central Africa,1284000.0,1960.0,7651000,50.5,1208.0,1102.0,Tchad/Tshad,Republic,Idriss Déby,3337.0,TD
+TGO,Togo,Africa,Western Africa,56785.0,1960.0,4629000,54.7,1449.0,1400.0,Togo,Republic,Gnassingbé Eyadéma,3332.0,TG
+TUN,Tunisia,Africa,Northern Africa,163610.0,1956.0,9586000,73.7,20026.0,18898.0,Tunis/Tunisie,Republic,Zine al-Abidine Ben Ali,3349.0,TN
+TZA,Tanzania,Africa,Eastern Africa,883749.0,1961.0,33517000,52.3,8005.0,7388.0,Tanzania,Republic,Benjamin William Mkapa,3306.0,TZ
+UGA,Uganda,Africa,Eastern Africa,241038.0,1962.0,21778000,42.9,6313.0,6887.0,Uganda,Republic,Yoweri Museveni,3425.0,UG
+ZAF,South Africa,Africa,Southern Africa,1221037.0,1910.0,40377000,51.1,116729.0,129092.0,South Africa,Republic,Thabo Mbeki,716.0,ZA
+ZMB,Zambia,Africa,Eastern Africa,752618.0,1964.0,9169000,37.2,3377.0,3922.0,Zambia,Republic,Frederick Chiluba,3162.0,ZM
+ZWE,Zimbabwe,Africa,Eastern Africa,390757.0,1980.0,11669000,37.8,5951.0,8670.0,Zimbabwe,Republic,Robert G. Mugabe,4068.0,ZW
